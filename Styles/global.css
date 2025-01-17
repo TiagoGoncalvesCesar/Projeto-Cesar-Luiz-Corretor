@@ -26,6 +26,7 @@ body {
   display: block; /* Remove o espaçamento abaixo da imagem */
 }
 /*-------------------------------------------------------------------------------------------*/
+
 /* Container para a animação */
 #angra {
   overflow: hidden;
@@ -85,8 +86,8 @@ body {
   transition: transform 0.3s ease; /* Animação ao passar o mouse*/ 
 }
 
-.logo {
-  max-width: 300px;
-  height: auto;
-  margin: 0 auto 10px;
-}
+  
+   
+
+  
+
